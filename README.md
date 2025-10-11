@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gay
+<h1 align="center">Hi 👋, I'm
   Tharusha Akash</h1>
 <h3 align="center">java developer</h3>
 
