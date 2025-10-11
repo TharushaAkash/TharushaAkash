@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tharusha Akash</h1>
+<h1 align="center">Hi 👋, I'm Gay
+  Tharusha Akash</h1>
 <h3 align="center">java developer</h3>
 
 - 🔭 I’m currently working on [Tourism Package Customization Platform](https://github.com/SE1020-OOP-Project)
