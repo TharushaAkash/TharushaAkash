@@ -12,10 +12,10 @@
 
 ## 💼 About Me
 
-I'm a passionate **Full Stack Java Developer** with expertise in building robust enterprise applications and modern web solutions. With a strong foundation in **Object-Oriented Programming** and experience across both backend and frontend technologies, I create applications that solve real-world problems efficiently.
+I'm a passionate **Full Stack Developer** with expertise in building robust enterprise applications and modern web solutions. With a strong foundation in **Object-Oriented Programming** and experience across both backend and frontend technologies, I create applications that solve real-world problems efficiently.
 
 - 🎓 Computer Science Enthusiast | Software Engineering Student (SLIIT)
-- 💻 Specialization: **Java | React | SpringBoot | Full-Stack Development**
+- 💻 Specialization: **Java | React | JavaScript| Full-Stack Development**
 - 🔍 Focus: Clean code, scalable architecture, and problem-solving
 - 📚 Continuous learner - always exploring new technologies and best practices
 
@@ -62,7 +62,7 @@ A comprehensive platform for managing photography events and services.
 
 ### 💼 **Invoice & Quotation Management System**
 Enterprise-grade system for generating and managing invoices and quotations.
-- **Tech Stack:** Java, Spring Boot, React, SQL
+- **Tech Stack:** JavaScript, Dart, C++, Firebase
 - **Highlights:** PDF generation, payment tracking, client database
 - **[View Repository](https://github.com/TharushaAkash/Invoice-Quotation-management-System)**
 
@@ -72,24 +72,16 @@ Full-featured e-commerce solution with modern UI/UX.
 - **Highlights:** Product catalog, shopping cart, responsive design
 - **[View Repository](https://github.com/TharushaAkash/i-computers-frontend)**
 
-### 📖 **Java Challenges Collection**
-Comprehensive resource for Java programming practice and learning.
-- **Content:** Beginner to advanced Java problems with solutions
-- **Focus:** Problem-solving skills, DSA, OOP concepts
-- **[View Repository](https://github.com/TharushaAkash/Java-challenges)**
+### 📖 **AutoFuelLanka - Vehicle Service & Fuel Station Management System**
+comprehensive web-based management system designed for vehicle service stations and fuel stations.
+- **Tech Stack:** Springboot, MySQLReact, Tailwind CSS, Vite, Java, CSS
+- **Highlights:** Multi-Role Access Control, Service Booking Management, Job Management, Inventory Management
+- **[View Repository]((https://github.com/TharushaAkash/systemmanager-new))**
 
-### 🎯 **Quiz Application**
-Interactive quiz platform with frontend and backend components.
-- **Tech Stack:** React (Frontend), Java Spring Boot (Backend), MySQL
-- **Features:** Real-time scoring, question banks, user analytics
-- **Repositories:** 
-  - [Frontend](https://github.com/TharushaAkash/quiz_front)
-  - [Backend](https://github.com/TharushaAkash/quiz_bac)
-
-### 💻 **Event Booking System**
-Complete booking management system for event reservations.
-- **Tech Stack:** Java, Spring Boot, React, Database Management
-- **[View Repository](https://github.com/TharushaAkash/Event_Booking_System)**
+### 🎬 **Simple Media Sniffer**
+A lightweight Chrome browser extension to extract web media
+- **Tech Stack:** JavaScript, HTML
+- **[View Repository](https://github.com/TharushaAkash/web-media-url-extracter)**
 
 ---
 
@@ -108,10 +100,8 @@ Complete booking management system for event reservations.
 
 ## 🎓 Expertise Areas
 
-- ✅ **Object-Oriented Programming (OOP)** - SOLID principles, design patterns
 - ✅ **Full-Stack Development** - End-to-end application development
-- ✅ **Database Design** - SQL optimization, data modeling
-- ✅ **API Development** - RESTful services, microservices architecture
+- ✅ **API Development** - RESTful services
 - ✅ **Frontend Development** - Modern UI frameworks, responsive design
 - ✅ **Problem Solving** - Algorithm design, competitive programming
 - ✅ **Software Engineering** - System design, architecture patterns
@@ -130,7 +120,7 @@ Complete booking management system for event reservations.
 
 ## 💡 What I'm Currently Doing
 
-- 🔭 Building enterprise applications with Spring Boot and React
+- 🔭 Building enterprise applications with MERN Stack
 - 📚 Deepening knowledge in microservices and cloud technologies
 - 🤝 Contributing to open-source projects and community
 - 🎯 Exploring advanced design patterns and architecture principles
