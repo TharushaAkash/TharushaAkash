@@ -26,9 +26,11 @@ I'm a passionate **Full Stack Developer** with expertise in building robust ente
 ### **Backend Development**
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=java&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C00?style=for-the-badge" alt="RESTful APIs"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </div>
 
@@ -54,35 +56,17 @@ I'm a passionate **Full Stack Developer** with expertise in building robust ente
 
 ## 🚀 Featured Projects
 
-### 📸 **Photography Event Management System**
-A comprehensive platform for managing photography events and services.
-- **Tech Stack:** Java, Spring Boot, React, MySQL
-- **Highlights:** Event scheduling, client management, portfolio showcase
-- **[View Repository](https://github.com/TharushaAkash/Photography_Event_Management_System)**
-
 ### 💼 **Invoice & Quotation Management System**
 Enterprise-grade system for generating and managing invoices and quotations.
 - **Tech Stack:** JavaScript, Dart, C++, Firebase
 - **Highlights:** PDF generation, payment tracking, client database
 - **[View Repository](https://github.com/TharushaAkash/Invoice-Quotation-management-System)**
 
-### 🏪 **i-Computers - E-Commerce Platform**
-Full-featured e-commerce solution with modern UI/UX.
-- **Tech Stack:** React, Tailwind CSS, Vite, Supabase, Axios
-- **Highlights:** Product catalog, shopping cart, responsive design
-- **[View Repository](https://github.com/TharushaAkash/i-computers-frontend)**
-
 ### 📖 **AutoFuelLanka - Vehicle Service & Fuel Station Management System**
 comprehensive web-based management system designed for vehicle service stations and fuel stations.
 - **Tech Stack:** Springboot, MySQLReact, Tailwind CSS, Vite, Java, CSS
 - **Highlights:** Multi-Role Access Control, Service Booking Management, Job Management, Inventory Management
 - **[View Repository]((https://github.com/TharushaAkash/systemmanager-new))**
-
-### 🎬 **Simple Media Sniffer**
-A lightweight Chrome browser extension to extract web media
-- **Tech Stack:** JavaScript, HTML
-- **[View Repository](https://github.com/TharushaAkash/web-media-url-extracter)**
-
 ---
 
 ## 📊 GitHub Statistics
