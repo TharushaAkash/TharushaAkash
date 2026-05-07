@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&width=900&height=70&lines=Hi+👋,+I'm+Tharusha+Akash;Full+Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&width=900&height=70&lines=Hi+👋,+I'm+Tharusha+Akash;Full+Stack+Developer;Building+Scalable+Solutions" alt="Tharusha Akash - Full Stack Developer"/>
 </h1>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## 💼 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building robust enterprise applications and modern web solutions. With a strong foundation in **Object-Oriented Programming** and experience across both backend and frontend technologies, I create applications that solve real-world problems efficiently.
+I'm a passionate **Full Stack Developer** with expertise in building robust enterprise applications and modern web solutions. With a strong foundation in **Object-Oriented Programming** and experience across multiple tech stacks, I transform complex requirements into elegant, maintainable code.
 
 - 🎓 Computer Science Enthusiast | Software Engineering Student (SLIIT)
 - 💻 Specialization: **Java | React | JavaScript| Full-Stack Development**
@@ -30,7 +30,7 @@ I'm a passionate **Full Stack Developer** with expertise in building robust ente
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C00?style=for-the-badge" alt="RESTful APIs"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </div>
 
@@ -66,13 +66,14 @@ Enterprise-grade system for generating and managing invoices and quotations.
 comprehensive web-based management system designed for vehicle service stations and fuel stations.
 - **Tech Stack:** Springboot, MySQLReact, Tailwind CSS, Vite, Java, CSS
 - **Highlights:** Multi-Role Access Control, Service Booking Management, Job Management, Inventory Management
-- **[View Repository]((https://github.com/TharushaAkash/systemmanager-new))**
+- **[View Repository](https://github.com/TharushaAkash/systemmanager-new)**
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TharushaAkash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TharushaAkash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharushaAkash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
 </div>
 
