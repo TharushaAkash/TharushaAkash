@@ -1,121 +1,80 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&width=900&height=70&lines=Hi+👋,+I'm+Tharusha+Akash;Full+Stack+Developer;Building+Scalable+Solutions" alt="Tharusha Akash - Full Stack Developer"/>
-</h1>
-
 <div align="center">
-  <p>
-    <strong>Transforming ideas into elegant, scalable software solutions</strong>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Tharusha%20Akash&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&width=900&height=50&lines=Full+Stack+Developer;Software+Engineering+Student+@+SLIIT;Transforming+ideas+into+scalable+solutions" alt="Typing effect"/>
+
+  <p align="center">
+    <a href="https://github.com/TharushaAkash" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/tharusha-akash" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://fb.com/tharusha.akash.100" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="mailto:tharushaakasha22@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 </div>
 
 ---
 
-## 💼 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building robust enterprise applications and modern web solutions. With a strong foundation in **Object-Oriented Programming** and experience across multiple tech stacks, I transform complex requirements into elegant, maintainable code.
+I'm a passionate **Full Stack Developer** with expertise in building robust enterprise applications and modern web solutions. With a strong foundation in **Object-Oriented Programming** and experience across multiple tech stacks, I focus on writing clean code, scalable architecture, and turning complex problems into simple, maintainable software.
 
-- 🎓 Computer Science Enthusiast | Software Engineering Student (SLIIT)
-- 💻 Specialization: **Java | React | JavaScript| Full-Stack Development**
-- 🔍 Focus: Clean code, scalable architecture, and problem-solving
-- 📚 Continuous learner - always exploring new technologies and best practices
+- 🔭 Currently building enterprise applications using the **MERN Stack** and **Spring Boot**.
+- 🌱 Deepening my knowledge in **Microservices**, **Cloud Technologies**, and **System Architecture**.
+- 🤝 Actively exploring advanced design patterns and looking for opportunities to collaborate on innovative projects.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Tools
 
-### **Backend Development**
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=java&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C00?style=for-the-badge" alt="RESTful APIs"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</div>
-
-### **Frontend Development**
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-
-### **Tools & Technologies**
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<div align="center">
+  <p><strong>Languages & Frameworks</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,react,html,css,tailwind,vite&perline=9" alt="Languages and Frameworks"/>
+  </a>
+  
+  <br/><br/>
+  
+  <p><strong>Databases & Tools</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,firebase,git,github,linux,maven&perline=9" alt="Databases and Tools"/>
+  </a>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💼 **Invoice & Quotation Management System**
-Enterprise-grade system for generating and managing invoices and quotations.
-- **Tech Stack:** JavaScript, Dart, C++, Firebase
-- **Highlights:** PDF generation, payment tracking, client database
-- **[View Repository](https://github.com/TharushaAkash/Invoice-Quotation-management-System)**
-
-### 📖 **AutoFuelLanka - Vehicle Service & Fuel Station Management System**
-comprehensive web-based management system designed for vehicle service stations and fuel stations.
-- **Tech Stack:** Springboot, MySQLReact, Tailwind CSS, Vite, Java, CSS
-- **Highlights:** Multi-Role Access Control, Service Booking Management, Job Management, Inventory Management
-- **[View Repository](https://github.com/TharushaAkash/systemmanager-new)**
+| 💼 **[Invoice & Quotation Management System](https://github.com/TharushaAkash/Invoice-Quotation-management-System)** | 📖 **[AutoFuelLanka - Vehicle Service System](https://github.com/TharushaAkash/systemmanager-new)** |
+| :--- | :--- |
+| Enterprise-grade system for generating and managing invoices and quotations. <br><br> **Tech:** JavaScript, Dart, C++, Firebase <br> **Features:** PDF generation, payment tracking, client database | Comprehensive management system designed for vehicle service and fuel stations. <br><br> **Tech:** Spring Boot, React, MySQL, Tailwind CSS <br> **Features:** Multi-Role Access, Service Booking, Inventory |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TharushaAkash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharushaAkash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TharushaAkash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&v=1" alt="GitHub Stats" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=TharushaAkash&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TharushaAkash&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharushaAkash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=1" alt="Top Languages" />
 </div>
 
 ---
 
-## 🎓 Expertise Areas
-
-- ✅ **Full-Stack Development** - End-to-end application development
-- ✅ **API Development** - RESTful services
-- ✅ **Frontend Development** - Modern UI frameworks, responsive design
-- ✅ **Problem Solving** - Algorithm design, competitive programming
-- ✅ **Software Engineering** - System design, architecture patterns
-
----
-
-## 🔗 Connect With Me
-
-<div align="left">
-  <a href="https://fb.com/tharusha.akash.100" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="mailto:tharushaakasha22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/TharushaAkash" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-
----
-
-## 💡 What I'm Currently Doing
-
-- 🔭 Building enterprise applications with MERN Stack
-- 📚 Deepening knowledge in microservices and cloud technologies
-- 🤝 Contributing to open-source projects and community
-- 🎯 Exploring advanced design patterns and architecture principles
-
----
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TharushaAkash&icon=2&color=1&label=Profile%20Views" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <sub>Built with ❤️ by Tharusha Akash | Last updated: May 2026</sub>
+  <img src="https://visitcount.itsvg.in/api?id=TharushaAkash&icon=2&color=1&label=Profile%20Views&v=1" alt="Profile Views"/>
+  <br/><br/>
+  <sub>Built with ❤️ by Tharusha Akash</sub>
 </div>
