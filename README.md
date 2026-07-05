@@ -74,12 +74,14 @@ I'm a passionate **Full Stack Developer** with expertise in building robust ente
 <br/>
 
 <div align="center">
+  <h3>📈 Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharushaAkash&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
+  <h3>🐍 Contribution Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TharushaAkash/TharushaAkash/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TharushaAkash/TharushaAkash/output/github-contribution-grid-snake.svg">
