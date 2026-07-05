@@ -61,20 +61,20 @@ I'm a passionate **Full Stack Developer** with expertise in building robust ente
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TharushaAkash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&v=1" alt="GitHub Stats" />
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=TharushaAkash&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=TharushaAkash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&v=1" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=TharushaAkash&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharushaAkash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=1" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TharushaAkash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=1" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TharushaAkash&icon=2&color=1&label=Profile%20Views&v=1" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=TharushaAkash&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views"/>
   <br/><br/>
   <sub>Built with ❤️ by Tharusha Akash</sub>
 </div>
