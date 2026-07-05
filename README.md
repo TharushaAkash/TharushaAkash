@@ -24,11 +24,31 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building robust enterprise applications and modern web solutions. With a strong foundation in **Object-Oriented Programming** and experience across multiple tech stacks, I focus on writing clean code, scalable architecture, and turning complex problems into simple, maintainable software.
+```javascript
+class TharushaAkash {
+  constructor() {
+    this.name = "Tharusha Akash";
+    this.role = "Full Stack Developer";
+    this.education = "BSc Information Technology Specialized in Software Engineering";
+    this.passion = "Building robust enterprise applications & modern web solutions";
+    this.focus = ["Clean Code", "Scalable Architecture", "Object-Oriented Programming"];
+  }
 
-- 🔭 Currently building enterprise applications using the **MERN Stack** and **Spring Boot**.
-- 🌱 Deepening my knowledge in **Microservices**, **Cloud Technologies**, and **System Architecture**.
-- 🤝 Actively exploring advanced design patterns and looking for opportunities to collaborate on innovative projects.
+  getCurrentlyWorkingOn() {
+    return [
+      "Building enterprise apps using MERN Stack & Spring Boot",
+      "Deepening knowledge in Microservices & Cloud Technologies",
+      "Exploring advanced design patterns"
+    ];
+  }
+
+  solveProblem(problem) {
+    return "Turning complex problems into simple, maintainable software";
+  }
+}
+
+const me = new TharushaAkash();
+```
 
 ---
 
