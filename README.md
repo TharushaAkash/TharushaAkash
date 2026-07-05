@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&width=900&height=50&lines=Full+Stack+Developer;Software+Engineering+Student+@+SLIIT;Transforming+ideas+into+scalable+solutions" alt="Typing effect"/>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=TharushaAkash&style=for-the-badge&color=00F7FF" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Profile%20Views-1k+-00F7FF?style=for-the-badge" alt="Profile Views" />
   </p>
 
   <p align="center">
