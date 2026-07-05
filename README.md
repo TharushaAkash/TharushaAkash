@@ -82,6 +82,15 @@ const tharusha = {
 <br/>
 
 <div align="center">
+  <h3>🏆 GitFut Scouting Card</h3>
+  <a href="https://gitfut.com/TharushaAkash" target="_blank">
+    <img src="https://gitfut.com/TharushaAkash/opengraph-image" alt="GitFut Player Card" width="600" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TharushaAkash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=1" alt="Top Languages" />
 </div>
 
