@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Tharusha%20Akash&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="banner.png" width="100%" alt="Tharusha Akash Profile Banner" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&width=900&height=50&lines=Full+Stack+Developer;Software+Engineering+Student+@+SLIIT;Transforming+ideas+into+scalable+solutions" alt="Typing effect"/>
 
