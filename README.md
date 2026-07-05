@@ -25,29 +25,23 @@
 ## 👨‍💻 About Me
 
 ```javascript
-class TharushaAkash {
-  constructor() {
-    this.name = "Tharusha Akash";
-    this.role = "Full Stack Developer";
-    this.education = "BSc Information Technology Specialized in Software Engineering";
-    this.passion = "Building robust enterprise applications & modern web solutions";
-    this.focus = ["Clean Code", "Scalable Architecture", "Object-Oriented Programming"];
-  }
+const tharusha = {
+  name: "Tharusha Akash",
+  role: "Full Stack Developer",
+  education: "BSc Information Technology Specialized in Software Engineering",
+  passion: "Building robust enterprise applications & modern web solutions",
+  focus: ["Clean Code", "Scalable Architecture", "Object-Oriented Programming"],
 
-  getCurrentlyWorkingOn() {
-    return [
-      "Building enterprise apps using MERN Stack & Spring Boot",
-      "Deepening knowledge in Microservices & Cloud Technologies",
-      "Exploring advanced design patterns"
-    ];
-  }
+  getCurrentlyWorkingOn: () => [
+    "Building enterprise apps using MERN Stack & Spring Boot",
+    "Deepening knowledge in Microservices & Cloud Technologies",
+    "Exploring advanced design patterns"
+  ],
 
-  solveProblem(problem) {
+  solveProblem: (problem) => {
     return "Turning complex problems into simple, maintainable software";
   }
-}
-
-const me = new TharushaAkash();
+};
 ```
 
 ---
