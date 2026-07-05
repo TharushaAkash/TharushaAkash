@@ -71,6 +71,22 @@ I'm a passionate **Full Stack Developer** with expertise in building robust ente
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TharushaAkash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=1" alt="Top Languages" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharushaAkash&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TharushaAkash/TharushaAkash/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TharushaAkash/TharushaAkash/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TharushaAkash/TharushaAkash/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
 ---
 
 <div align="center">
